@@ -1,12 +1,11 @@
 body {
 	margin: 0;
 	font-family: helvetica;
-	background-color: red;
+	background-color: yellow;
 }
 
 h1 {
 	font-weight: lighter;
-	color: white;
 }
 
 #logo {
